@@ -50,31 +50,31 @@ $('select').on('change', function() {
   switch(this.value) {
     case "0":
       // code block
-      window.open("./../TOPICVIZ/index.html");
+      window.open("./../abhijeet10.github.io/index.html");
       break;
     case "1":
       // code block
-      window.open("../TOPICVIZ/index1.html");
+      window.open("../abhijeet10.github.io/index1.html");
       break;
     case "2":
       // code block
-      window.open("../TOPICVIZ/index2.html");
+      window.open("../abhijeet10.github.io/index2.html");
       break;
     case "3":
       // code block
-      window.open("../TOPICVIZ/index3.html");
+      window.open("../abhijeet10.github.io/index3.html");
       break;
     case "4":
       // code block
-      window.open("../TOPICVIZ/index4.html");
+      window.open("../abhijeet10.github.io/index4.html");
       break;
     case "5":
       // code block
-      window.open("../TOPICVIZ/index5.html");
+      window.open("../abhijeet10.github.io/index5.html");
       break;
     case "6":
       // code block
-      window.open("../TOPICVIZ/index6.html");
+      window.open("../abhijeet10.github.io/index6.html");
       break;
     case "7":
       // code block
@@ -82,19 +82,19 @@ $('select').on('change', function() {
       break;
     case "8":
       // code block
-      window.open("../TOPICVIZ/index8.html");
+      window.open("../abhijeet10.github.io/index8.html");
       break;
     case "9":
       // code block
-      window.open("../TOPICVIZ/index9.html");
+      window.open("../abhijeet10.github.io/index9.html");
       break;
     case "10":
       // code block
-      window.open("../TOPICVIZ/index10.html");
+      window.open("../abhijeet10.github.io/index10.html");
       break;
     case "11":
       // code block
-      window.open("../TOPICVIZ/index11.html");
+      window.open("../abhijeet10.github.io/index11.html");
       break;
   
     default:
