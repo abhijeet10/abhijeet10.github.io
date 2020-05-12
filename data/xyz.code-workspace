@@ -1,0 +1,1565 @@
+{
+  "data": [
+    {
+      "doc_counts_total": 130, 
+      "time_end_from_zero": 579, 
+      "time_start": 1456503561, 
+      "time_start_from_zero": 0, 
+      "topics": [
+        {
+          "term_count": 14408.0, 
+          "coherence": -75.23552652721105, 
+          "terms": [
+            {
+              "freq": 142, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.011853911323305511
+            }, 
+            {
+              "freq": 84, 
+              "text": "found", 
+              "term": "found", 
+              "prob": 0.01046206576737754
+            }, 
+            {
+              "freq": 0, 
+              "text": "minsky", 
+              "term": "minsky", 
+              "prob": 0.010040969441674867
+            }, 
+            {
+              "freq": 60, 
+              "text": "italian", 
+              "term": "italian", 
+              "prob": 0.0083767421752102382
+            }, 
+            {
+              "freq": 0, 
+              "text": "minsky's", 
+              "term": "minsky's", 
+              "prob": 0.0083763836700243548
+            }, 
+            {
+              "freq": 0, 
+              "text": "company", 
+              "term": "company", 
+              "prob": 0.0078275939077267469
+            }, 
+            {
+              "freq": 0, 
+              "text": "international", 
+              "term": "international", 
+              "prob": 0.0072696061687059508
+            }, 
+            {
+              "freq": 0, 
+              "text": "dealing", 
+              "term": "dealing", 
+              "prob": 0.0071302702680092955
+            }, 
+            {
+              "freq": 55, 
+              "text": "payment", 
+              "term": "payment", 
+              "prob": 0.0070446246857672288
+            }, 
+            {
+              "freq": 0, 
+              "text": "business", 
+              "term": "business", 
+              "prob": 0.0065172745525721694
+            }
+          ], 
+          "id": 0, 
+          "probability": 0.33267828161747448
+        }, 
+        {
+          "term_count": 14408.0, 
+          "coherence": -190.06556836565053, 
+          "terms": [
+            {
+              "freq": 142, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.013685108256215684
+            }, 
+            {
+              "freq": 90, 
+              "text": "fund", 
+              "term": "fund", 
+              "prob": 0.011497834277324674
+            }, 
+            {
+              "freq": 0, 
+              "text": "approval", 
+              "term": "approval", 
+              "prob": 0.0096234216608305986
+            }, 
+            {
+              "freq": 0, 
+              "text": "invoice", 
+              "term": "invoice", 
+              "prob": 0.0074775302540816936
+            }, 
+            {
+              "freq": 0, 
+              "text": "executed", 
+              "term": "executed", 
+              "prob": 0.0072345714700260844
+            }, 
+            {
+              "freq": 61, 
+              "text": "transfer", 
+              "term": "transfer", 
+              "prob": 0.0070715853422049189
+            }, 
+            {
+              "freq": 48, 
+              "text": "ptf", 
+              "term": "ptf", 
+              "prob": 0.0065234338681621085
+            }, 
+            {
+              "freq": 27, 
+              "text": "port", 
+              "term": "port", 
+              "prob": 0.0065218071005922647
+            }, 
+            {
+              "freq": 27, 
+              "text": "akm", 
+              "term": "akm", 
+              "prob": 0.0065216688760837381
+            }, 
+            {
+              "freq": 0, 
+              "text": "company", 
+              "term": "company", 
+              "prob": 0.006284122730278831
+            }
+          ], 
+          "id": 1, 
+          "probability": 0.27449046309448077
+        }, 
+        {
+          "term_count": 14408.0, 
+          "coherence": -260.53248652995813, 
+          "terms": [
+            {
+              "freq": 0, 
+              "text": "parts", 
+              "term": "parts", 
+              "prob": 0.013182172742968342
+            }, 
+            {
+              "freq": 0, 
+              "text": "guns", 
+              "term": "guns", 
+              "prob": 0.010341993721867754
+            }, 
+            {
+              "freq": 0, 
+              "text": "posted", 
+              "term": "posted", 
+              "prob": 0.0068146192058447458
+            }, 
+            {
+              "freq": 0, 
+              "text": "many", 
+              "term": "many", 
+              "prob": 0.0059351979255572243
+            }, 
+            {
+              "freq": 0, 
+              "text": "security", 
+              "term": "security", 
+              "prob": 0.0057541290022048962
+            }, 
+            {
+              "freq": 44, 
+              "text": "year", 
+              "term": "year", 
+              "prob": 0.0055352622320716935
+            }, 
+            {
+              "freq": 0, 
+              "text": "country", 
+              "term": "country", 
+              "prob": 0.0053155672546394018
+            }, 
+            {
+              "freq": 0, 
+              "text": "buying", 
+              "term": "buying", 
+              "prob": 0.0048762486533943635
+            }, 
+            {
+              "freq": 0, 
+              "text": "people", 
+              "term": "people", 
+              "prob": 0.0046586878815143336
+            }, 
+            {
+              "freq": 20, 
+              "text": "ago", 
+              "term": "ago", 
+              "prob": 0.004440024209530366
+            }
+          ], 
+          "id": 2, 
+          "probability": 0.39283125528804513
+        }
+      ], 
+      "doc_counts": {
+        "news14": 1, 
+        "news17": 2, 
+        "telephone25": 5, 
+        "news11": 2, 
+        "news12": 1, 
+        "telephone26": 3, 
+        "telephone29": 1, 
+        "news19": 12, 
+        "email8": 2, 
+        "email9": 1, 
+        "email6": 7, 
+        "email7": 9, 
+        "email4": 4, 
+        "email5": 3, 
+        "email2": 2, 
+        "email3": 7, 
+        "email1": 5, 
+        "NONE": 1, 
+        "telephone6": 3, 
+        "telephone4": 1, 
+        "telephone5": 2, 
+        "telephone2": 1, 
+        "telephone3": 2, 
+        "telephone1": 1, 
+        "email14": 2, 
+        "email15": 2, 
+        "email16": 1, 
+        "email17": 1, 
+        "email11": 1, 
+        "email12": 1, 
+        "email13": 2, 
+        "telephone30": 5, 
+        "telephone31": 2, 
+        "telephone15": 1, 
+        "telephone17": 1, 
+        "telephone10": 2, 
+        "telephone11": 2, 
+        "telephone12": 1, 
+        "web2": 4, 
+        "web3": 3, 
+        "web4": 1, 
+        "news2": 2, 
+        "news3": 2, 
+        "news1": 2, 
+        "news6": 3, 
+        "news7": 3, 
+        "news4": 1, 
+        "news8": 6, 
+        "telephone9": 1
+      }, 
+      "time_end": 1456504140
+    }, 
+    {
+      "doc_counts_total": 121, 
+      "time_end_from_zero": 951, 
+      "time_start": 1456504156, 
+      "time_start_from_zero": 595, 
+      "topics": [
+        {
+          "term_count": 14768.0, 
+          "coherence": -47.223310274846227, 
+          "terms": [
+            {
+              "freq": 232, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.01993207247040785
+            }, 
+            {
+              "freq": 184, 
+              "text": "fund", 
+              "term": "fund", 
+              "prob": 0.01545183584684004
+            }, 
+            {
+              "freq": 0, 
+              "text": "approval", 
+              "term": "approval", 
+              "prob": 0.014192150872705537
+            }, 
+            {
+              "freq": 0, 
+              "text": "invoice", 
+              "term": "invoice", 
+              "prob": 0.010975916621431272
+            }, 
+            {
+              "freq": 0, 
+              "text": "executed", 
+              "term": "executed", 
+              "prob": 0.010274766310309248
+            }, 
+            {
+              "freq": 69, 
+              "text": "ptf", 
+              "term": "ptf", 
+              "prob": 0.0097091958013797979
+            }, 
+            {
+              "freq": 69, 
+              "text": "akm", 
+              "term": "akm", 
+              "prob": 0.0097084232915233184
+            }, 
+            {
+              "freq": 69, 
+              "text": "port", 
+              "term": "port", 
+              "prob": 0.0097084064417385322
+            }, 
+            {
+              "freq": 0, 
+              "text": "company", 
+              "term": "company", 
+              "prob": 0.0090121316133167442
+            }, 
+            {
+              "freq": 84, 
+              "text": "transfer", 
+              "term": "transfer", 
+              "prob": 0.0090108786990204925
+            }
+          ], 
+          "id": 0, 
+          "probability": 0.40611896521503821
+        }, 
+        {
+          "term_count": 14768.0, 
+          "coherence": -63.279399303268036, 
+          "terms": [
+            {
+              "freq": 54, 
+              "text": "terrorist", 
+              "term": "terrorist", 
+              "prob": 0.012324497814495336
+            }, 
+            {
+              "freq": 0, 
+              "text": "belonging", 
+              "term": "belonging", 
+              "prob": 0.010497911817153359
+            }, 
+            {
+              "freq": 37, 
+              "text": "plan", 
+              "term": "plan", 
+              "prob": 0.0084680263287202125
+            }, 
+            {
+              "freq": 0, 
+              "text": "parts", 
+              "term": "parts", 
+              "prob": 0.0082472448212531253
+            }, 
+            {
+              "freq": 36, 
+              "text": "park", 
+              "term": "park", 
+              "prob": 0.0082420926009981847
+            }, 
+            {
+              "freq": 0, 
+              "text": "gathering", 
+              "term": "gathering", 
+              "prob": 0.0082408593814942369
+            }, 
+            {
+              "freq": 36, 
+              "text": "cid", 
+              "term": "cid", 
+              "prob": 0.008240400182461867
+            }, 
+            {
+              "freq": 0, 
+              "text": "places", 
+              "term": "places", 
+              "prob": 0.007671222231013671
+            }, 
+            {
+              "freq": 0, 
+              "text": "house", 
+              "term": "house", 
+              "prob": 0.0073234674597650934
+            }, 
+            {
+              "freq": 0, 
+              "text": "investigation", 
+              "term": "investigation", 
+              "prob": 0.0067673304253261755
+            }
+          ], 
+          "id": 1, 
+          "probability": 0.33152221245378127
+        }, 
+        {
+          "term_count": 14768.0, 
+          "coherence": -72.191117970553933, 
+          "terms": [
+            {
+              "freq": 232, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.019718050989341498
+            }, 
+            {
+              "freq": 184, 
+              "text": "fund", 
+              "term": "fund", 
+              "prob": 0.016220301712237564
+            }, 
+            {
+              "freq": 127, 
+              "text": "nigeria", 
+              "term": "nigeria", 
+              "prob": 0.015772648607903717
+            }, 
+            {
+              "freq": 0, 
+              "text": "successfully", 
+              "term": "successfully", 
+              "prob": 0.012328231938034956
+            }, 
+            {
+              "freq": 56, 
+              "text": "much", 
+              "term": "much", 
+              "prob": 0.012267948274143726
+            }, 
+            {
+              "freq": 0, 
+              "text": "dealing", 
+              "term": "dealing", 
+              "prob": 0.012002802428934541
+            }, 
+            {
+              "freq": 63, 
+              "text": "share", 
+              "term": "share", 
+              "prob": 0.011832843118566447
+            }, 
+            {
+              "freq": 52, 
+              "text": "money", 
+              "term": "money", 
+              "prob": 0.010089673294024963
+            }, 
+            {
+              "freq": 0, 
+              "text": "used", 
+              "term": "used", 
+              "prob": 0.0089752088127876134
+            }, 
+            {
+              "freq": 0, 
+              "text": "wants", 
+              "term": "wants", 
+              "prob": 0.0089539454263245794
+            }
+          ], 
+          "id": 2, 
+          "probability": 0.26235882233118074
+        }
+      ], 
+      "doc_counts": {
+        "telephone24": 1, 
+        "news12": 1, 
+        "telephone26": 5, 
+        "intelligence26": 1, 
+        "email8": 4, 
+        "email9": 2, 
+        "email7": 24, 
+        "email5": 1, 
+        "email3": 19, 
+        "email1": 10, 
+        "NONE": 1, 
+        "intelligence13": 1, 
+        "telephone6": 3, 
+        "telephone7": 3, 
+        "telephone5": 1, 
+        "telephone2": 1, 
+        "telephone3": 1, 
+        "email17": 1, 
+        "telephone8": 2, 
+        "email13": 1, 
+        "news11": 2, 
+        "telephone30": 1, 
+        "telephone31": 2, 
+        "telephone10": 4, 
+        "telephone11": 2, 
+        "telephone13": 1, 
+        "web2": 1, 
+        "web1": 1, 
+        "news21": 1, 
+        "news2": 9, 
+        "news3": 4, 
+        "news1": 1, 
+        "news6": 2, 
+        "news4": 3, 
+        "news8": 2, 
+        "email12": 1, 
+        "telephone9": 1
+      }, 
+      "time_end": 1456504512
+    }, 
+    {
+      "doc_counts_total": 123, 
+      "time_end_from_zero": 1452, 
+      "time_start": 1456504530, 
+      "time_start_from_zero": 969, 
+      "topics": [
+        {
+          "term_count": 9188.0, 
+          "coherence": -126.76557318546848, 
+          "terms": [
+            {
+              "freq": 122, 
+              "text": "court", 
+              "term": "court", 
+              "prob": 0.01976956640023839
+            }, 
+            {
+              "freq": 0, 
+              "text": "illegal", 
+              "term": "illegal", 
+              "prob": 0.013030787566305491
+            }, 
+            {
+              "freq": 0, 
+              "text": "security", 
+              "term": "security", 
+              "prob": 0.012444902686348026
+            }, 
+            {
+              "freq": 78, 
+              "text": "mp", 
+              "term": "mp", 
+              "prob": 0.012105317436585649
+            }, 
+            {
+              "freq": 0, 
+              "text": "convicted", 
+              "term": "convicted", 
+              "prob": 0.010094757377820769
+            }, 
+            {
+              "freq": 66, 
+              "text": "three", 
+              "term": "three", 
+              "prob": 0.010093966904811119
+            }, 
+            {
+              "freq": 0, 
+              "text": "possession", 
+              "term": "possession", 
+              "prob": 0.0095948724522353628
+            }, 
+            {
+              "freq": 0, 
+              "text": "involvement", 
+              "term": "involvement", 
+              "prob": 0.0092584552546337955
+            }, 
+            {
+              "freq": 0, 
+              "text": "forces", 
+              "term": "forces", 
+              "prob": 0.0090970733249401484
+            }, 
+            {
+              "freq": 44, 
+              "text": "kenyan", 
+              "term": "kenyan", 
+              "prob": 0.0070763949085514205
+            }
+          ], 
+          "id": 0, 
+          "probability": 0.55880250328830394
+        }, 
+        {
+          "term_count": 9188.0, 
+          "coherence": -185.38251789553345, 
+          "terms": [
+            {
+              "freq": 73, 
+              "text": "saudi", 
+              "term": "saudi", 
+              "prob": 0.024270334474861311
+            }, 
+            {
+              "freq": 0, 
+              "text": "firearms", 
+              "term": "firearms", 
+              "prob": 0.014009851349835248
+            }, 
+            {
+              "freq": 0, 
+              "text": "parts", 
+              "term": "parts", 
+              "prob": 0.01366521688173835
+            }, 
+            {
+              "freq": 0, 
+              "text": "many", 
+              "term": "many", 
+              "prob": 0.009669548091395903
+            }, 
+            {
+              "freq": 26, 
+              "text": "fine", 
+              "term": "fine", 
+              "prob": 0.0083838147143420472
+            }, 
+            {
+              "freq": 24, 
+              "text": "riyal", 
+              "term": "riyal", 
+              "prob": 0.0080523163570094692
+            }, 
+            {
+              "freq": 22, 
+              "text": "board", 
+              "term": "board", 
+              "prob": 0.0073938857891480501
+            }, 
+            {
+              "freq": 0, 
+              "text": "posted", 
+              "term": "posted", 
+              "prob": 0.0073936971160334626
+            }, 
+            {
+              "freq": 22, 
+              "text": "yemeni", 
+              "term": "yemeni", 
+              "prob": 0.0073917125315260844
+            }, 
+            {
+              "freq": 0, 
+              "text": "meeting", 
+              "term": "meeting", 
+              "prob": 0.0072937560152899379
+            }
+          ], 
+          "id": 1, 
+          "probability": 0.33428148321414941
+        }, 
+        {
+          "term_count": 9188.0, 
+          "coherence": -214.15902108045174, 
+          "terms": [
+            {
+              "freq": 23, 
+              "text": "anka", 
+              "term": "anka", 
+              "prob": 0.018791237635470293
+            }, 
+            {
+              "freq": 0, 
+              "text": "yes", 
+              "term": "yes", 
+              "prob": 0.016320538415030814
+            }, 
+            {
+              "freq": 0, 
+              "text": "places", 
+              "term": "places", 
+              "prob": 0.010665517633297055
+            }, 
+            {
+              "freq": 0, 
+              "text": "mobile", 
+              "term": "mobile", 
+              "prob": 0.0090897200242786424
+            }, 
+            {
+              "freq": 0, 
+              "text": "arrangements", 
+              "term": "arrangements", 
+              "prob": 0.0090153784023272853
+            }, 
+            {
+              "freq": 27, 
+              "text": "bangkok", 
+              "term": "bangkok", 
+              "prob": 0.0082222196624496223
+            }, 
+            {
+              "freq": 12, 
+              "text": "get", 
+              "term": "get", 
+              "prob": 0.0075170265616930449
+            }, 
+            {
+              "freq": 13, 
+              "text": "case", 
+              "term": "case", 
+              "prob": 0.0074920517262897189
+            }, 
+            {
+              "freq": 9, 
+              "text": "khouri", 
+              "term": "khouri", 
+              "prob": 0.0074900705004505869
+            }, 
+            {
+              "freq": 0, 
+              "text": "knows", 
+              "term": "knows", 
+              "prob": 0.0074843279259450626
+            }
+          ], 
+          "id": 2, 
+          "probability": 0.10691601349754554
+        }
+      ], 
+      "doc_counts": {
+        "news17": 21, 
+        "telephone24": 2, 
+        "news12": 19, 
+        "telephone29": 2, 
+        "news18": 1, 
+        "email8": 3, 
+        "email9": 2, 
+        "email2": 1, 
+        "news11": 1, 
+        "NONE": 2, 
+        "telephone7": 1, 
+        "email14": 1, 
+        "email15": 1, 
+        "email16": 1, 
+        "email17": 2, 
+        "email10": 1, 
+        "email11": 7, 
+        "telephone8": 1, 
+        "email13": 1, 
+        "telephone14": 1, 
+        "telephone15": 1, 
+        "telephone10": 1, 
+        "telephone12": 1, 
+        "telephone13": 1, 
+        "web2": 3, 
+        "web3": 2, 
+        "web1": 10, 
+        "web6": 2, 
+        "web7": 2, 
+        "news3": 1, 
+        "news6": 1, 
+        "news7": 1, 
+        "news4": 1, 
+        "intelligence3": 21, 
+        "email12": 4
+      }, 
+      "time_end": 1456505013
+    }, 
+    {
+      "doc_counts_total": 216, 
+      "time_end_from_zero": 1799, 
+      "time_start": 1456505035, 
+      "time_start_from_zero": 1474, 
+      "topics": [
+        {
+          "term_count": 16537.0, 
+          "coherence": -261.08797492217099, 
+          "terms": [
+            {
+              "freq": 135, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.011999053308783496
+            }, 
+            {
+              "freq": 104, 
+              "text": "fund", 
+              "term": "fund", 
+              "prob": 0.010337068799420941
+            }, 
+            {
+              "freq": 0, 
+              "text": "house", 
+              "term": "house", 
+              "prob": 0.0084704859447205395
+            }, 
+            {
+              "freq": 63, 
+              "text": "nigeria", 
+              "term": "nigeria", 
+              "prob": 0.0070195459349134065
+            }, 
+            {
+              "freq": 51, 
+              "text": "town", 
+              "term": "town", 
+              "prob": 0.0063835311438673759
+            }, 
+            {
+              "freq": 0, 
+              "text": "approval", 
+              "term": "approval", 
+              "prob": 0.0061492414090379612
+            }, 
+            {
+              "freq": 58, 
+              "text": "two", 
+              "term": "two", 
+              "prob": 0.0061115330585107021
+            }, 
+            {
+              "freq": 64, 
+              "text": "bank", 
+              "term": "bank", 
+              "prob": 0.0056023015333323172
+            }, 
+            {
+              "freq": 50, 
+              "text": "three", 
+              "term": "three", 
+              "prob": 0.0052693550890835937
+            }, 
+            {
+              "freq": 41, 
+              "text": "pakistani", 
+              "term": "pakistani", 
+              "prob": 0.0051355428769460712
+            }
+          ], 
+          "id": 0, 
+          "probability": 0.32810891104201867
+        }, 
+        {
+          "term_count": 16537.0, 
+          "coherence": -270.07820592296656, 
+          "terms": [
+            {
+              "freq": 0, 
+              "text": "received", 
+              "term": "received", 
+              "prob": 0.007710887554558077
+            }, 
+            {
+              "freq": 0, 
+              "text": "security", 
+              "term": "security", 
+              "prob": 0.0076571407377146478
+            }, 
+            {
+              "freq": 35, 
+              "text": "mp", 
+              "term": "mp", 
+              "prob": 0.007383354391147354
+            }, 
+            {
+              "freq": 135, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.0069885837404968423
+            }, 
+            {
+              "freq": 0, 
+              "text": "forces", 
+              "term": "forces", 
+              "prob": 0.0068011382194255662
+            }, 
+            {
+              "freq": 45, 
+              "text": "report", 
+              "term": "report", 
+              "prob": 0.0057579552994950108
+            }, 
+            {
+              "freq": 62, 
+              "text": "transfer", 
+              "term": "transfer", 
+              "prob": 0.0055099909286629471
+            }, 
+            {
+              "freq": 0, 
+              "text": "transaction", 
+              "term": "transaction", 
+              "prob": 0.0053453269845413201
+            }, 
+            {
+              "freq": 0, 
+              "text": "office", 
+              "term": "office", 
+              "prob": 0.0050855077488494247
+            }, 
+            {
+              "freq": 0, 
+              "text": "claims", 
+              "term": "claims", 
+              "prob": 0.0050813022814240848
+            }
+          ], 
+          "id": 1, 
+          "probability": 0.32650530107540082
+        }, 
+        {
+          "term_count": 16537.0, 
+          "coherence": -301.82481243768405, 
+          "terms": [
+            {
+              "freq": 0, 
+              "text": "places", 
+              "term": "places", 
+              "prob": 0.013032986505732414
+            }, 
+            {
+              "freq": 0, 
+              "text": "meeting", 
+              "term": "meeting", 
+              "prob": 0.0091301442384890234
+            }, 
+            {
+              "freq": 0, 
+              "text": "knows", 
+              "term": "knows", 
+              "prob": 0.0086691495011531217
+            }, 
+            {
+              "freq": 0, 
+              "text": "arrangements", 
+              "term": "arrangements", 
+              "prob": 0.0081682667554567913
+            }, 
+            {
+              "freq": 0, 
+              "text": "mobile", 
+              "term": "mobile", 
+              "prob": 0.0076261835007174839
+            }, 
+            {
+              "freq": 0, 
+              "text": "registered", 
+              "term": "registered", 
+              "prob": 0.0073952406188891179
+            }, 
+            {
+              "freq": 48, 
+              "text": "soon", 
+              "term": "soon", 
+              "prob": 0.0067269465625836664
+            }, 
+            {
+              "freq": 0, 
+              "text": "yes", 
+              "term": "yes", 
+              "prob": 0.0066412724848405602
+            }, 
+            {
+              "freq": 53, 
+              "text": "money", 
+              "term": "money", 
+              "prob": 0.006368682038941983
+            }, 
+            {
+              "freq": 0, 
+              "text": "used", 
+              "term": "used", 
+              "prob": 0.0056411783214397829
+            }
+          ], 
+          "id": 2, 
+          "probability": 0.34538578788258228
+        }
+      ], 
+      "doc_counts": {
+        "news17": 5, 
+        "news12": 8, 
+        "intelligence21": 4, 
+        "intelligence20": 1, 
+        "intelligence23": 3, 
+        "intelligence22": 6, 
+        "intelligence25": 2, 
+        "intelligence24": 4, 
+        "intelligence26": 1, 
+        "email8": 1, 
+        "email6": 3, 
+        "email7": 10, 
+        "email4": 1, 
+        "email3": 9, 
+        "email1": 4, 
+        "intelligence14": 3, 
+        "intelligence15": 3, 
+        "intelligence16": 4, 
+        "intelligence17": 4, 
+        "telephone18": 5, 
+        "telephone19": 2, 
+        "intelligence12": 2, 
+        "intelligence13": 7, 
+        "telephone14": 3, 
+        "telephone15": 6, 
+        "telephone16": 1, 
+        "telephone17": 5, 
+        "telephone10": 1, 
+        "intelligence19": 6, 
+        "telephone12": 3, 
+        "telephone13": 4, 
+        "email12": 1, 
+        "email13": 1, 
+        "telephone24": 1, 
+        "telephone27": 1, 
+        "telephone26": 3, 
+        "telephone29": 1, 
+        "telephone28": 1, 
+        "intelligence10": 1, 
+        "intelligence11": 1, 
+        "NONE": 3, 
+        "telephone7": 2, 
+        "telephone4": 2, 
+        "telephone5": 4, 
+        "telephone2": 4, 
+        "telephone3": 2, 
+        "telephone1": 2, 
+        "email14": 1, 
+        "email15": 1, 
+        "email16": 2, 
+        "email17": 3, 
+        "email10": 2, 
+        "email11": 1, 
+        "telephone8": 1, 
+        "telephone9": 2, 
+        "telephone30": 4, 
+        "telephone31": 3, 
+        "telephone11": 2, 
+        "web2": 2, 
+        "web3": 1, 
+        "web1": 1, 
+        "web6": 2, 
+        "web7": 1, 
+        "web4": 2, 
+        "web5": 3, 
+        "news2": 5, 
+        "news3": 3, 
+        "news1": 3, 
+        "news6": 1, 
+        "news4": 2, 
+        "intelligence2": 2, 
+        "intelligence3": 4, 
+        "intelligence1": 1, 
+        "intelligence6": 1, 
+        "intelligence7": 2, 
+        "intelligence4": 2, 
+        "intelligence5": 2, 
+        "intelligence8": 2, 
+        "intelligence9": 1
+      }, 
+      "time_end": 1456505360
+    }, 
+    {
+      "doc_counts_total": 99, 
+      "time_end_from_zero": 2146, 
+      "time_start": 1456505387, 
+      "time_start_from_zero": 1826, 
+      "topics": [
+        {
+          "term_count": 7832.0, 
+          "coherence": -63.748245285021021, 
+          "terms": [
+            {
+              "freq": 0, 
+              "text": "business", 
+              "term": "business", 
+              "prob": 0.012638009972694016
+            }, 
+            {
+              "freq": 0, 
+              "text": "successfully", 
+              "term": "successfully", 
+              "prob": 0.0096292019370014508
+            }, 
+            {
+              "freq": 0, 
+              "text": "meeting", 
+              "term": "meeting", 
+              "prob": 0.0072516784480980978
+            }, 
+            {
+              "freq": 21, 
+              "text": "mutual", 
+              "term": "mutual", 
+              "prob": 0.0072502732562734632
+            }, 
+            {
+              "freq": 0, 
+              "text": "february", 
+              "term": "february", 
+              "prob": 0.0071589801736150855
+            }, 
+            {
+              "freq": 20, 
+              "text": "mikhail", 
+              "term": "mikhail", 
+              "prob": 0.0069109609290011528
+            }, 
+            {
+              "freq": 0, 
+              "text": "issued", 
+              "term": "issued", 
+              "prob": 0.0069097281309761522
+            }, 
+            {
+              "freq": 21, 
+              "text": "sudan", 
+              "term": "sudan", 
+              "prob": 0.0069090084079658168
+            }, 
+            {
+              "freq": 0, 
+              "text": "dealing", 
+              "term": "dealing", 
+              "prob": 0.0064326325885754928
+            }, 
+            {
+              "freq": 17, 
+              "text": "contract", 
+              "term": "contract", 
+              "prob": 0.0058883339242984806
+            }
+          ], 
+          "id": 0, 
+          "probability": 0.33628912289390261
+        }, 
+        {
+          "term_count": 7832.0, 
+          "coherence": -86.716355924858902, 
+          "terms": [
+            {
+              "freq": 79, 
+              "text": "found", 
+              "term": "found", 
+              "prob": 0.015987562379828603
+            }, 
+            {
+              "freq": 0, 
+              "text": "minsky", 
+              "term": "minsky", 
+              "prob": 0.014976191219725961
+            }, 
+            {
+              "freq": 61, 
+              "text": "italian", 
+              "term": "italian", 
+              "prob": 0.012358953172515993
+            }, 
+            {
+              "freq": 0, 
+              "text": "minsky's", 
+              "term": "minsky's", 
+              "prob": 0.012161002464617881
+            }, 
+            {
+              "freq": 0, 
+              "text": "international", 
+              "term": "international", 
+              "prob": 0.010726545917408216
+            }, 
+            {
+              "freq": 45, 
+              "text": "anka", 
+              "term": "anka", 
+              "prob": 0.0091387204888273513
+            }, 
+            {
+              "freq": 0, 
+              "text": "surveillance", 
+              "term": "surveillance", 
+              "prob": 0.0089406668046932061
+            }, 
+            {
+              "freq": 39, 
+              "text": "hotel", 
+              "term": "hotel", 
+              "prob": 0.0079272664847308133
+            }, 
+            {
+              "freq": 0, 
+              "text": "diamonds", 
+              "term": "diamonds", 
+              "prob": 0.0077338271324860841
+            }, 
+            {
+              "freq": 38, 
+              "text": "later", 
+              "term": "later", 
+              "prob": 0.0075236530415103784
+            }
+          ], 
+          "id": 1, 
+          "probability": 0.49250979157816405
+        }, 
+        {
+          "term_count": 7832.0, 
+          "coherence": -194.12678758049682, 
+          "terms": [
+            {
+              "freq": 22, 
+              "text": "nairobi", 
+              "term": "nairobi", 
+              "prob": 0.016712747054821623
+            }, 
+            {
+              "freq": 18, 
+              "text": "otieno", 
+              "term": "otieno", 
+              "prob": 0.014888155244874485
+            }, 
+            {
+              "freq": 16, 
+              "text": "thabiti", 
+              "term": "thabiti", 
+              "prob": 0.013065750294445866
+            }, 
+            {
+              "freq": 20, 
+              "text": "narok", 
+              "term": "narok", 
+              "prob": 0.013065384192656505
+            }, 
+            {
+              "freq": 43, 
+              "text": "may", 
+              "term": "may", 
+              "prob": 0.013058015601554005
+            }, 
+            {
+              "freq": 14, 
+              "text": "nahid", 
+              "term": "nahid", 
+              "prob": 0.011241355024260356
+            }, 
+            {
+              "freq": 12, 
+              "text": "born", 
+              "term": "born", 
+              "prob": 0.011240957796686027
+            }, 
+            {
+              "freq": 12, 
+              "text": "usa", 
+              "term": "usa", 
+              "prob": 0.011240954816003271
+            }, 
+            {
+              "freq": 25, 
+              "text": "african", 
+              "term": "african", 
+              "prob": 0.0076039569219568236
+            }, 
+            {
+              "freq": 13, 
+              "text": "east", 
+              "term": "east", 
+              "prob": 0.0075957323758740706
+            }
+          ], 
+          "id": 2, 
+          "probability": 0.17120108552793206
+        }
+      ], 
+      "doc_counts": {
+        "news14": 2, 
+        "news17": 2, 
+        "telephone24": 1, 
+        "news12": 4, 
+        "intelligence21": 2, 
+        "intelligence22": 1, 
+        "news18": 1, 
+        "news19": 12, 
+        "intelligence27": 14, 
+        "email8": 2, 
+        "email9": 4, 
+        "email3": 2, 
+        "email1": 1, 
+        "NONE": 5, 
+        "telephone29": 4, 
+        "email14": 2, 
+        "email15": 2, 
+        "email17": 10, 
+        "email10": 1, 
+        "telephone8": 1, 
+        "email13": 1, 
+        "telephone10": 1, 
+        "intelligence19": 1, 
+        "telephone12": 2, 
+        "telephone13": 2, 
+        "web2": 1, 
+        "web3": 2, 
+        "web6": 1, 
+        "web7": 4, 
+        "news21": 6, 
+        "news6": 3, 
+        "news4": 1, 
+        "intelligence3": 1
+      }, 
+      "time_end": 1456505707
+    }, 
+    {
+      "doc_counts_total": 139, 
+      "time_end_from_zero": 2497, 
+      "time_start": 1456505716, 
+      "time_start_from_zero": 2155, 
+      "topics": [
+        {
+          "term_count": 9201.0, 
+          "coherence": -175.53246630125307, 
+          "terms": [
+            {
+              "freq": 0, 
+              "text": "guns", 
+              "term": "guns", 
+              "prob": 0.020262209392792725
+            }, 
+            {
+              "freq": 55, 
+              "text": "sudan", 
+              "term": "sudan", 
+              "prob": 0.012062035412115167
+            }, 
+            {
+              "freq": 0, 
+              "text": "parts", 
+              "term": "parts", 
+              "prob": 0.009288749507048822
+            }, 
+            {
+              "freq": 34, 
+              "text": "shipment", 
+              "term": "shipment", 
+              "prob": 0.0091020501796928426
+            }, 
+            {
+              "freq": 0, 
+              "text": "rockets", 
+              "term": "rockets", 
+              "prob": 0.0090702663042256139
+            }, 
+            {
+              "freq": 24, 
+              "text": "survey", 
+              "term": "survey", 
+              "prob": 0.0072775881310651012
+            }, 
+            {
+              "freq": 24, 
+              "text": "southern", 
+              "term": "southern", 
+              "prob": 0.0072768035933363654
+            }, 
+            {
+              "freq": 24, 
+              "text": "launcher", 
+              "term": "launcher", 
+              "prob": 0.0072763037181987978
+            }, 
+            {
+              "freq": 24, 
+              "text": "research", 
+              "term": "research", 
+              "prob": 0.0072756198891099468
+            }, 
+            {
+              "freq": 0, 
+              "text": "security", 
+              "term": "security", 
+              "prob": 0.0070906887653959362
+            }
+          ], 
+          "id": 0, 
+          "probability": 0.17624586934489359
+        }, 
+        {
+          "term_count": 9201.0, 
+          "coherence": -233.0409609416929, 
+          "terms": [
+            {
+              "freq": 0, 
+              "text": "yes", 
+              "term": "yes", 
+              "prob": 0.018510910435570023
+            }, 
+            {
+              "freq": 0, 
+              "text": "places", 
+              "term": "places", 
+              "prob": 0.014573990174298831
+            }, 
+            {
+              "freq": 62, 
+              "text": "may", 
+              "term": "may", 
+              "prob": 0.014216346846949368
+            }, 
+            {
+              "freq": 0, 
+              "text": "mobile", 
+              "term": "mobile", 
+              "prob": 0.010737627562801746
+            }, 
+            {
+              "freq": 0, 
+              "text": "surveillance", 
+              "term": "surveillance", 
+              "prob": 0.010494080138982521
+            }, 
+            {
+              "freq": 0, 
+              "text": "registered", 
+              "term": "registered", 
+              "prob": 0.0092834783453884188
+            }, 
+            {
+              "freq": 26, 
+              "text": "case", 
+              "term": "case", 
+              "prob": 0.009116163367949669
+            }, 
+            {
+              "freq": 0, 
+              "text": "used", 
+              "term": "used", 
+              "prob": 0.0085746013031693172
+            }, 
+            {
+              "freq": 0, 
+              "text": "ninety", 
+              "term": "ninety", 
+              "prob": 0.0084238412120315794
+            }, 
+            {
+              "freq": 24, 
+              "text": "anka", 
+              "term": "anka", 
+              "prob": 0.0084221344103550672
+            }
+          ], 
+          "id": 1, 
+          "probability": 0.36887963835296267
+        }, 
+        {
+          "term_count": 9201.0, 
+          "coherence": -270.23351026078637, 
+          "terms": [
+            {
+              "freq": 81, 
+              "text": "m", 
+              "term": "m", 
+              "prob": 0.018087051258526405
+            }, 
+            {
+              "freq": 60, 
+              "text": "tanya", 
+              "term": "tanya", 
+              "prob": 0.01448862836786923
+            }, 
+            {
+              "freq": 60, 
+              "text": "v", 
+              "term": "v", 
+              "prob": 0.014486245128573178
+            }, 
+            {
+              "freq": 56, 
+              "text": "russian", 
+              "term": "russian", 
+              "prob": 0.012271481965868315
+            }, 
+            {
+              "freq": 50, 
+              "text": "brother", 
+              "term": "brother", 
+              "prob": 0.012088163655493324
+            }, 
+            {
+              "freq": 0, 
+              "text": "destination", 
+              "term": "destination", 
+              "prob": 0.011517349245756297
+            }, 
+            {
+              "freq": 0, 
+              "text": "received", 
+              "term": "received", 
+              "prob": 0.010959050594823704
+            }, 
+            {
+              "freq": 47, 
+              "text": "burj", 
+              "term": "burj", 
+              "prob": 0.010887536935381506
+            }, 
+            {
+              "freq": 0, 
+              "text": "pirates", 
+              "term": "pirates", 
+              "prob": 0.010885478371732048
+            }, 
+            {
+              "freq": 56, 
+              "text": "mm", 
+              "term": "mm", 
+              "prob": 0.0096899894078973457
+            }
+          ], 
+          "id": 2, 
+          "probability": 0.45487449230213983
+        }
+      ], 
+      "doc_counts": {
+        "telephone21": 2, 
+        "telephone23": 3, 
+        "news17": 2, 
+        "telephone24": 6, 
+        "news12": 1, 
+        "telephone29": 2, 
+        "telephone28": 6, 
+        "news18": 3, 
+        "news19": 2, 
+        "intelligence27": 10, 
+        "telephone22": 1, 
+        "email9": 2, 
+        "NONE": 3, 
+        "telephone27": 8, 
+        "telephone6": 1, 
+        "telephone7": 2, 
+        "telephone4": 1, 
+        "telephone5": 1, 
+        "email17": 1, 
+        "email12": 1, 
+        "telephone9": 1, 
+        "telephone19": 2, 
+        "telephone30": 15, 
+        "telephone31": 3, 
+        "telephone17": 2, 
+        "web3": 1, 
+        "web6": 15, 
+        "web7": 8, 
+        "web4": 7, 
+        "web5": 8, 
+        "news21": 7, 
+        "news3": 1, 
+        "news7": 1, 
+        "news4": 1, 
+        "news8": 5, 
+        "intelligence3": 2, 
+        "telephone8": 2
+      }, 
+      "time_end": 1456506058
+    }
+  ], 
+  "label": "P2-3-topics-constant-time-5min-all-events-100stopwords-search-trick"
+};

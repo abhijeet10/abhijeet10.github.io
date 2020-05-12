@@ -1,0 +1,125 @@
+body {
+  font: 14px sans-serif;
+  font-weight: bold;
+}
+body{
+   overflow-x: scroll;
+ }
+
+.chart {
+    /* background-color: #efefef; */
+    background-color: white;
+    /* shape-rendering: crispEdges; */
+    shape-rendering: auto;
+    border-style: solid;
+    border-color: #d3d3d3;
+ }
+ 
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+ 
+ .text0 {
+    fill: red;
+ }
+ 
+ .text1 {
+    fill: green;
+ }
+ 
+ .text2 {
+    fill:steelblue;
+ }
+ 
+ .text3 {
+    fill: yellow;
+ }
+ 
+ .text4 {
+    fill: purple;
+ }
+ 
+ .text5 {
+    fill:brown;
+ }
+ 
+ .node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+#leftDiv{
+   width: 20%;
+}
+
+
+
+/* .stats{
+   float: left;
+} */
+
+
+
+table {
+   border-collapse: collapse;
+ }
+ th,
+ td {
+   border: 1px solid #cecfd5;
+   padding: 10px 15px;
+ }
+ 
+ tr{
+    font-size: 20px;
+ }
+
+.stats{
+   width: 1000px;
+   margin-left: 420px;
+}
+
+.lineContainer{
+   height: 50px;
+   width: 3000px;
+   /* border: 1px solid black; */
+}  
+
+.line{
+      display: block;
+      margin-top: 0.5em;
+      margin-bottom: 0.5em;
+      margin-left: 400px;
+     float: left;
+      border-style: solid;
+      border-width: 5px;
+      /* height: 20px; */
+      /* width: 100px; */
+      color: #0B615E;
+   
+}
+
+.timeContainer{
+   height: 100px;
+   width: 3000px;
+   margin-left: 400px;
+   /* border: 1px solid black; */
+}
+.time{
+   /* margin-right: 140px; */
+   font-size: 10px;
+   color: #0B615E;
+}
+
