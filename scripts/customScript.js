@@ -78,7 +78,7 @@ $('select').on('change', function() {
       break;
     case "7":
       // code block
-      window.open("../TOPICVIZ/index7.html");
+      window.open("../abhijeet10.github.io/index7.html");
       break;
     case "8":
       // code block
